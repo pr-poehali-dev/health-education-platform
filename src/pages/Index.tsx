@@ -967,14 +967,14 @@ const Index = () => {
                     <div className="flex items-start gap-3">
                       <Icon name="PhoneCall" className="text-purple-600 mt-1" size={20} />
                       <div>
-                        <p className="font-semibold text-gray-800">8-800-555-35-35</p>
+                        <p className="font-semibold text-gray-800">8-996-460-65-11</p>
                         <p className="text-sm text-gray-600">Звонок бесплатный, круглосуточно</p>
                       </div>
                     </div>
                     <div className="flex items-start gap-3">
                       <Icon name="Mail" className="text-purple-600 mt-1" size={20} />
                       <div>
-                        <p className="font-semibold text-gray-800">info@zdorovlife.ru</p>
+                        <p className="font-semibold text-gray-800">nikitavarlyga@mail.ru</p>
                         <p className="text-sm text-gray-600">Ответим на email в течение суток</p>
                       </div>
                     </div>
@@ -1053,8 +1053,8 @@ const Index = () => {
             <div>
               <h4 className="font-semibold mb-3">Контакты</h4>
               <ul className="space-y-2 text-sm text-gray-400">
-                <li>Email: info@zdorovlife.ru</li>
-                <li>Телефон: 8-800-555-35-35</li>
+                <li>Email: nikitavarlyga@mail.ru</li>
+                <li>Телефон: 8-996-460-65-11</li>
                 <li className="pt-2 text-xs text-gray-500">© 2024 ЗдоровЛайф. Все права защищены.</li>
               </ul>
             </div>
